@@ -2361,6 +2361,15 @@ input, select, textarea {
 
 		}
 
+.skills{
+  display: flex;
+}
+
+.icon{
+  height: 100px;
+  width: 100px;
+}
+
 /* Table */
 
 	.table-wrapper {
